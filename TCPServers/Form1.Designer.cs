@@ -97,7 +97,7 @@ namespace TCPServers
             // 
             // btnSend
             // 
-            this.btnSend.Location = new System.Drawing.Point(386, 435);
+            this.btnSend.Location = new System.Drawing.Point(400, 435);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(94, 29);
             this.btnSend.TabIndex = 6;
